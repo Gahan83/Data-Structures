@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Dynamic_Programming
+{
+    public class ClimbingStairs
+    {
+        public int ClimbStairs(int n)
+        {
+            if (n <= 2) return n;
+
+            int first = 1;  // ways to reach step 1
+            int second = 2; // ways to reach step 2
+
+            for (int i = 3; i <= n; i++)
+            {
+                int third = first + second;
+                first = second;
+                second = third;
+            }
+
+            return second;
+        }
+    }
+}

@@ -1,0 +1,15 @@
+C:\Gahan\Practice Program\Data-Structures\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Gahan\Practice Program\Data-Structures\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Gahan\Practice Program\Data-Structures\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Gahan\Practice Program\Data-Structures\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Gahan\Practice Program\Data-Structures\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Gahan\Practice Program\Data-Structures\Arrays\obj\Debug\net8.0\ref\Arrays.dll

@@ -1,0 +1,15 @@
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\bin\Debug\net8.0\Sorting and Searching.exe
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\bin\Debug\net8.0\Sorting and Searching.deps.json
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\bin\Debug\net8.0\Sorting and Searching.runtimeconfig.json
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\bin\Debug\net8.0\Sorting and Searching.dll
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\bin\Debug\net8.0\Sorting and Searching.pdb
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\Sorting and Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\Sorting and Searching.AssemblyInfoInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\Sorting and Searching.AssemblyInfo.cs
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\Sorting and Searching.csproj.CoreCompileInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\Sorting and Searching.sourcelink.json
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\Sorting and Searching.dll
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\refint\Sorting and Searching.dll
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\Sorting and Searching.pdb
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\Sorting and Searching.genruntimeconfig.cache
+C:\Gahan\Practice Program\Data-Structures\Sorting and Searching\obj\Debug\net8.0\ref\Sorting and Searching.dll

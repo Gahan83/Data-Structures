@@ -1,0 +1,15 @@
+C:\Gahan\Practice Program\Data-Structures\Design\bin\Debug\net8.0\Design.exe
+C:\Gahan\Practice Program\Data-Structures\Design\bin\Debug\net8.0\Design.deps.json
+C:\Gahan\Practice Program\Data-Structures\Design\bin\Debug\net8.0\Design.runtimeconfig.json
+C:\Gahan\Practice Program\Data-Structures\Design\bin\Debug\net8.0\Design.dll
+C:\Gahan\Practice Program\Data-Structures\Design\bin\Debug\net8.0\Design.pdb
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\Design.AssemblyInfoInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\Design.AssemblyInfo.cs
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\Design.csproj.CoreCompileInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\Design.sourcelink.json
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\Design.dll
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\refint\Design.dll
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\Design.pdb
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\Design.genruntimeconfig.cache
+C:\Gahan\Practice Program\Data-Structures\Design\obj\Debug\net8.0\ref\Design.dll

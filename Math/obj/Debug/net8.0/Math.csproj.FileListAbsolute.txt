@@ -1,0 +1,15 @@
+C:\Gahan\Practice Program\Data-Structures\Math\bin\Debug\net8.0\Math.exe
+C:\Gahan\Practice Program\Data-Structures\Math\bin\Debug\net8.0\Math.deps.json
+C:\Gahan\Practice Program\Data-Structures\Math\bin\Debug\net8.0\Math.runtimeconfig.json
+C:\Gahan\Practice Program\Data-Structures\Math\bin\Debug\net8.0\Math.dll
+C:\Gahan\Practice Program\Data-Structures\Math\bin\Debug\net8.0\Math.pdb
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\Math.AssemblyInfoInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\Math.AssemblyInfo.cs
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\Math.csproj.CoreCompileInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\Math.sourcelink.json
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\Math.dll
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\refint\Math.dll
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\Math.pdb
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\Math.genruntimeconfig.cache
+C:\Gahan\Practice Program\Data-Structures\Math\obj\Debug\net8.0\ref\Math.dll

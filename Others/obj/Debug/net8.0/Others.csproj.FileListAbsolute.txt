@@ -1,0 +1,15 @@
+C:\Gahan\Practice Program\Data-Structures\Others\bin\Debug\net8.0\Others.exe
+C:\Gahan\Practice Program\Data-Structures\Others\bin\Debug\net8.0\Others.deps.json
+C:\Gahan\Practice Program\Data-Structures\Others\bin\Debug\net8.0\Others.runtimeconfig.json
+C:\Gahan\Practice Program\Data-Structures\Others\bin\Debug\net8.0\Others.dll
+C:\Gahan\Practice Program\Data-Structures\Others\bin\Debug\net8.0\Others.pdb
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\Others.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\Others.AssemblyInfoInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\Others.AssemblyInfo.cs
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\Others.csproj.CoreCompileInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\Others.sourcelink.json
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\Others.dll
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\refint\Others.dll
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\Others.pdb
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\Others.genruntimeconfig.cache
+C:\Gahan\Practice Program\Data-Structures\Others\obj\Debug\net8.0\ref\Others.dll

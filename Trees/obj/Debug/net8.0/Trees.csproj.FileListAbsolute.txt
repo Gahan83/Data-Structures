@@ -1,0 +1,15 @@
+C:\Gahan\Practice Program\Data-Structures\Trees\bin\Debug\net8.0\Trees.exe
+C:\Gahan\Practice Program\Data-Structures\Trees\bin\Debug\net8.0\Trees.deps.json
+C:\Gahan\Practice Program\Data-Structures\Trees\bin\Debug\net8.0\Trees.runtimeconfig.json
+C:\Gahan\Practice Program\Data-Structures\Trees\bin\Debug\net8.0\Trees.dll
+C:\Gahan\Practice Program\Data-Structures\Trees\bin\Debug\net8.0\Trees.pdb
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\Trees.AssemblyInfoInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\Trees.AssemblyInfo.cs
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\Trees.csproj.CoreCompileInputs.cache
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\Trees.sourcelink.json
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\Trees.dll
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\refint\Trees.dll
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\Trees.pdb
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\Trees.genruntimeconfig.cache
+C:\Gahan\Practice Program\Data-Structures\Trees\obj\Debug\net8.0\ref\Trees.dll
