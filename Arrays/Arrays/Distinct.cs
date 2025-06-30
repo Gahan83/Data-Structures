@@ -17,7 +17,7 @@
 
             //OR
 
-            return nums.Distinct().Count() != nums.Length;
+            return nums.Distinct().Count() != nums.Length; // Returns true if there are any duplicate elements in the array; uses LINQ to compare the count of distinct element
         }
     }
 }

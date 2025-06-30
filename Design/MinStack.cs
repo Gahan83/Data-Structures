@@ -6,43 +6,43 @@ using System.Threading.Tasks;
 
 namespace Design
 {
-    public class MinStack
+    public class MinStack // Defining the MinStack class
     {
-        private Stack<int> stack;
-        private Stack<int> minStack;
+        private Stack<int> stack; // Stack to store all values
+        private Stack<int> minStack; // Stack to keep track of minimum values
 
-        public MinStack()
+        public MinStack() // Constructor to initialize stacks
         {
-            stack = new Stack<int>();
-            minStack = new Stack<int>();
+            stack = new Stack<int>(); // Initialize the main stack
+            minStack = new Stack<int>(); // Initialize the min stack
         }
 
-        public void Push(int val)
+        public void Push(int val) // Method to push a value onto the stack
         {
-            stack.Push(val);
-            if (minStack.Count == 0 || val <= minStack.Peek())
+            stack.Push(val); // Push value onto the main stack
+            if (minStack.Count == 0 || val <= minStack.Peek()) // If minStack is empty or new value is less than or equal to current min
             {
-                minStack.Push(val);
+                minStack.Push(val); // Push value onto the min stack
             }
         }
 
-        public void Pop()
+        public void Pop() // Method to remove the top value from the stack
         {
-            int top = stack.Pop();
-            if (top == minStack.Peek())
+            int top = stack.Pop(); // Pop the top value from the main stack
+            if (top == minStack.Peek()) // If the popped value is the current minimum
             {
-                minStack.Pop();
+                minStack.Pop(); // Pop it from the min stack as well
             }
         }
 
-        public int Top()
+        public int Top() // Method to get the top value of the stack
         {
-            return stack.Peek();
+            return stack.Peek(); // Return the top value of the main stack
         }
 
-        public int GetMin()
+        public int GetMin() // Method to get the minimum value in the stack
         {
-            return minStack.Peek();
+            return minStack.Peek(); // Return the top value of the min stack (current minimum)
         }
     }
 }

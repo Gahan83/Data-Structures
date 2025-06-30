@@ -31,13 +31,13 @@
 //int truncatedResult = result.RemoveDuplicates(nums1);
 //Console.WriteLine(string.Join(",", nums1.Take(truncatedResult)));
 
-BuyAndSellStock result = new BuyAndSellStock();
-int[] prices = { 1, 2, 3, 4, 5 };
-Console.WriteLine(result.MaxProfit(prices));
+//BuyAndSellStock result = new BuyAndSellStock();
+//int[] prices = { 1, 2, 3, 4, 5 };
+//Console.WriteLine(result.MaxProfit(prices));
 
 //RotateArray rotateArray = new RotateArray();
 //int[] nums = { 1, 2, 3, 4, 5, 6, 7 };
-//int k = 8;
+//int k = 4;
 
 //rotateArray.Rotate(nums, k);
 //Console.WriteLine(string.Join(",", nums));
@@ -47,20 +47,20 @@ Console.WriteLine(result.MaxProfit(prices));
 //Console.WriteLine(distinct.ContainDuplicate(nums));
 
 //SingleNumber singleNumber = new SingleNumber();
-//int[] nums = { 1, 2, 2 , 1, 6 };
+//int[] nums = { 1, 2, 2, 1, 6 };
 //Console.WriteLine(singleNumber.FindSingleNumber(nums));
 
 //IntersectionofArray intersectionofArray = new IntersectionofArray();
 
 //int[] nums1 = { 1, 2, 3 };
-//int[] nums2 = {  2, 3,4 };
-//int[] result= intersectionofArray.Intersect(nums1, nums2);  
+//int[] nums2 = { 2, 3, 4 };
+//int[] result = intersectionofArray.Intersect(nums1, nums2);
 
 //Console.WriteLine(string.Join(",",result));
 
 //PlusOne plusOne = new PlusOne();
-//int[] digits = {9, 9, 9 };
-//Console.WriteLine(string.Join(",",plusOne.AddOne(digits)));
+//int[] digits = { 4, 3, 2,1 };
+//Console.WriteLine(string.Join(",", plusOne.AddOne(digits)));
 
 //NonZeros nonZeros = new NonZeros();
 //int[] nums = { 0, 1, 0, 3, 12 };
@@ -75,9 +75,9 @@ Console.WriteLine(result.MaxProfit(prices));
 //int[] nums = { 1, 2, 3, 4, 5, 6, 7 };
 //number.MinEvenNumber(nums);
 
-//SumofArray number = new SumofArray();
-//int[] nums = { 1, 2, 3, 4, 5, 6, 7 };
-//number.Sum(nums);
+SumofArray number = new SumofArray();
+int[] nums = { 1, 2, 3, 4, 5, 6, 7, 9 };
+number.Sum(nums);
 
 //CountofArray number = new CountofArray();
 //int[] nums = { 1, 2, 3, 4, 5, 6, 7 };
@@ -88,7 +88,7 @@ Console.WriteLine(result.MaxProfit(prices));
 //number.Average(nums);
 
 //string[] names = { "Bangalore", "Mangalore", "Mumbai", };
-//CombineToSingleString combineToSingleString =new CombineToSingleString();
+//CombineToSingleString combineToSingleString = new CombineToSingleString();
 //combineToSingleString.Combine(names);
 
 //int[] nums = { 11, 15, 2, 7};
@@ -97,20 +97,20 @@ Console.WriteLine(result.MaxProfit(prices));
 //int[] result = twoSum.Sum(nums, target);
 //Console.WriteLine(string.Join(",",result));
 
-//Sudoku sudoku=new Sudoku();
-//char[][] board = {
-//            new char[] {'5','3','.','.','7','.','.','.','.'},
-//            new char[] {'6','.','.','1','9','5','.','.','.'},
-//            new char[] {'.','9','8','.','.','.','.','6','.'},
-//            new char[] {'8','.','.','.','6','.','.','.','3'},
-//            new char[] {'4','.','.','8','.','3','.','.','1'},
-//            new char[] {'7','.','.','.','2','.','.','.','6'},
-//            new char[] {'.','6','.','.','.','.','2','8','.'},
-//            new char[] {'.','.','.','4','1','9','.','.','5'},
-//            new char[] {'.','.','.','.','8','.','.','7','9'}
-//        };
+Sudoku sudoku = new Sudoku();
+char[][] board = {
+            new char[] {'5','3','.','.','7','.','.','.','.'},
+            new char[] {'6','.','.','1','9','5','.','.','.'},
+            new char[] {'.','9','8','.','.','.','.','6','.'},
+            new char[] {'8','.','.','.','6','.','.','.','3'},
+            new char[] {'4','.','.','8','.','3','.','.','1'},
+            new char[] {'7','.','.','.','2','.','.','.','6'},
+            new char[] {'.','6','.','.','.','.','2','8','.'},
+            new char[] {'.','.','.','4','1','9','.','.','5'},
+            new char[] {'.','.','.','.','8','.','.','7','9'}
+        };
 
-//Console.WriteLine(sudoku.IsValidSudoku(board));
+Console.WriteLine(sudoku.IsValidSudoku(board));
 
 
 //int[][] matrix = {
@@ -127,6 +127,10 @@ Console.WriteLine(result.MaxProfit(prices));
 //    Console.WriteLine(string.Join("", i));
 //}
 
+
+//MaximumEvenNumber maximumEvenNumber = new MaximumEvenNumber();
+
+//maximumEvenNumber.MaxEvenNumber(new int[] { 1, 2, 3, 4, 5, 6, 7 });
 
 
 
